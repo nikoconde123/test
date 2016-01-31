@@ -1,0 +1,40 @@
+.main {
+  margin: 100px;
+}
+
+.row1 {
+  height: 200px;
+  width: 48%;
+  float: left;
+}
+
+#instruction {
+  width: 90%;
+  height: 200px;
+}
+
+.button {
+  background: black;
+  width: 220px;
+  height: 30px;
+  padding-top: 15px;
+  text-align: center;
+}
+
+.button a {
+  color: white;
+  margin: auto;
+}
+
+.container {
+  display: block;
+  margin-top: 20px;
+}
+
+.base-container {
+  margin-top: 60px;
+}
+
+.main-row {
+  padding-left:250px;
+}
